@@ -4,20 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Student Research Assistant at the Service-centric Networking Lab of Technical University Berlin.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Decentralized Systems Engineering:** Blockchain, InterPlanetary File System, Self-sovereign Identity, Multiparty Computation
+- **Trustworthy AI:** Federated Learning, zkML, Personhood Credentials, Homomorphic Encryption
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** Presentation of VDIC paper @ the 
+6th Conference on Blockchain Research & Applications for Innovative Networks and Services.
+- **[Sep. 2024]** Presentation of VDIC paper @ TUM Blockchain Conference 2024.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
