@@ -5,7 +5,7 @@ main:
     conference_short: BRAINS
     conference: Conference on Blockchain Research & Applications for Innovative Networks and Services <strong>(BRAINS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2408.07023
-    #code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/sid030sid/evaluation-vdic
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_vdic.png
     notes: Conference paper
@@ -26,7 +26,7 @@ main:
     conference_short: SOSE
     conference: IEEE International Conference on Service-Oriented System Engineering <strong>(SOSE)</strong>, 2024.
     pdf: https://arxiv.org/abs/2406.11356
-    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/sid030sid/DIDChain
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Conference paper
@@ -37,7 +37,7 @@ main:
     conference_short: EPFL
     conference: Research project of Intelligent Global Health Lab at École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, 2023.
     pdf: ./assets/files/report_dynamic.pdf
-    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/sid030sid/DYNAMIC-igh-ml-semester-project
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Research report
