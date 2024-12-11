@@ -1,22 +1,44 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Verifiable Decentralized IPFS Cluster: Unlocking Trustworthy Data Permanency for Off-Chain Storage"
+    authors: <strong>Sid Lamichhane</strong>, Patrick Herbke
+    conference_short: BRAINS
+    conference: Conference on Blockchain Research & Applications for Innovative Networks and Services <strong>(BRAINS)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2408.07023
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_vdic.png
+    notes: Conference paper
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Lifecycle Management of Resumés with Decentralized Identifiers and Verifiable Credentials"
+    authors: Patrick Herbke, Anish Sapkota, <strong>Sid Lamichhane</strong>
+    conference_short: BRAINS
+    conference: Conference on Blockchain Research & Applications for Innovative Networks and Services <strong>(BRAINS)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2406.11535
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Demo paper
+    image: ./assets/img/teaser_resume_demo.png
+
+  - title: "DIDChain: Advancing Supply Chain Data Management with Decentralized Identifiers and Blockchain"
+    authors: Patrick Herbke, <strong>Sid Lamichhane</strong>, Kaustabh Barman, Sanjeet Raj Pandey, Axel Küpper, Andreas Abraham, Markus Sabadello
+    conference_short: SOSE
+    conference: IEEE International Conference on Service-Oriented System Engineering <strong>(SOSE)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2406.11356
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Conference paper
+    image: ./assets/img/teaser_didchain.png
+
+  - title: "DYNAMIC - Clustering Data Derived from Clinical Decision Support System"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: EPFL
+    conference: Research project of Intelligent Global Health Lab at École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, 2023.
+    pdf: ./assets/files/report_dynamic.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Research report
+    image: ./assets/img/teaser_dynamic.png
