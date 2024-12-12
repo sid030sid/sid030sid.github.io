@@ -7,7 +7,7 @@ main:
     pdf: https://github.com/sid030sid/did-ipfs-service-provider?tab=readme-ov-file#about-didipfs
     code: https://github.com/sid030sid/did-ipfs-service-provider
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_did_ipfs.png
+    image: ./assets/img/teaser_did_ipfs.jpg
     notes: Research project
   
   - title: "Verifiable Decentralized IPFS Cluster: Unlocking Trustworthy Data Permanency for Off-Chain Storage"
@@ -35,8 +35,8 @@ main:
     authors: <strong>Sid Lamichhane</strong>
     conference_short: Bootcamp
     conference: Six week long educational bootcamp on Machine Learning with Zero-Knowledge Proofs (zkML), March 2024.
-    pdf: ./assets/img/zkml_bootcamp_certificiate.png
-    image: ./assets/img/zkml_bootcamp_certificiate.png
+    pdf: ./assets/img/zkml_bootcamp_certificiate.avif
+    image: ./assets/img/zkml_bootcamp_certificiate.avif
 
   - title: "DIDChain: Advancing Supply Chain Data Management with Decentralized Identifiers and Blockchain"
     authors: Patrick Herbke, <strong>Sid Lamichhane</strong>, Kaustabh Barman, Sanjeet Raj Pandey, Axel Küpper, Andreas Abraham, Markus Sabadello
