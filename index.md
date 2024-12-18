@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Student Research Assistant at the Service-centric Networking Lab (SNET) of Technical University Berlin, driven by a passion for advancing innovative technologies in Decentralized Identity and Decentralized Systems Engineering.
-Building on my Master's studies in Data Science and Engineering, I strive to combine this expertise with my research at SNET to contribute to the evolving field of Trustworthy AI.
-In a world where AI increasingly shapes our lives, ensuring its trustworthiness is vital for upholding democratic values. I firmly believe that privacy is democracy, and that AI systems must adhere to ethical principles to promote fairness and accountability.
-What inspires me most about Trustworthy AI is its unique blend of technical and interdisciplinary challenges. By integrating computer science, ethics, and societal perspectives, it provides the opportunity to design systems that are safe, verifiable, and privacy-preserving—key to building a just and equitable future.
-My enthusiasm for research stems from the excitement of tackling complex problems, exploring innovative ideas, and contributing to impactful solutions. I deeply enjoy the process of reading, writing, and presenting research that has the potential to drive meaningful change.
+I am a Student Research Assistant at the Service-centric Networking Lab (SNET) of Technical University Berlin, driven by a passion for advancing innovative technologies in Decentralized Identity and Decentralized Systems Engineering. 
+My enthusiasm for research stems from the excitement of tackling complex problems, exploring innovative ideas, and contributing to impactful solutions. 
+I deeply enjoy the process of reading, writing, and presenting research that has the potential to drive meaningful change.
+
+After completing my Master's in Data Science and Engineering, I aim to combine my expertise in AI with my research at SNET to advance the evolving field of Trustworthy AI.
+In a world where AI plays an ever-growing role in shaping our lives, ensuring its trustworthiness is essential for safeguarding democratic values such as privacy, accountability, and the decentralization of power.
 
 ## Research Interests
 
