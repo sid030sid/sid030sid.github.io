@@ -31,7 +31,7 @@
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
       {% if link.demo_video %} 
-      <a href="{{ link.demo_video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo video</a>
+      <a href="{{ link.demo_video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>

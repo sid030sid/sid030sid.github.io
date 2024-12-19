@@ -1,40 +1,40 @@
 main:
   - title: "Researcher"
-    authors: <strong>@ Decentralized Identity Foundation, online</strong>
+    authors: "<strong>@ Decentralized Identity Foundation, online</strong>"
     conference: Member of working group "Identifiers & Discovery", 10/2024 - present.
     page: https://identity.foundation/working-groups/identifiers-discovery.htm
 
   - title: "Climbing coach for teenage competition climbers"
-    authors: <strong>@ German Alpine Club, Berlin, DE</strong>
+    authors: "<strong>@ German Alpine Club, Berlin, DE</strong>"
     conference: Organizing and executing weekly training programs for teenage competition climbers, 10/2023 - present.
 
   - title: "Co-leader"
-    authors: <strong>@ Zero Emissions Group (EPFL), Lausanne, CH /strong>
+    authors: "<strong>@ Zero Emissions Group (EPFL), Lausanne, CH /strong>"
     conference: Strategy, management, and web development for project EcoLens, 10/2022 - present.
     page: https://zeroemission.group/ecolens/
   
   - title: "Design Thinking Coach"
-    authors: <strong>@ Zukunftskongress, Berlin, DE</strong>
+    authors: "<strong>@ Zukunftskongress, Berlin, DE</strong>"
     pdf: ./assets/img/certificates/design_thinking_certificate.pdf
     conference: Guiding a group of students and professors of TU Berlin to apply Design Thinking for the future of TU Berlin, November 2021.
 
   - title: "Volunteer"
-    authors: <strong>@ Buddy Program, Berlin, DE</strong>
+    authors: "<strong>@ Buddy Program, Berlin, DE</strong>"
     conference: Advising international students at TU Berlin, 10/2018 - 09/2022.
     page: https://www.tu.berlin/en/international/students-1/internationalizationhome/buddy-program
   
   - title: "Lecturer"
-    authors: <strong>@ VHS Bhaktapur, Bhaktapur, NP</strong>
+    authors: "<strong>@ VHS Bhaktapur, Bhaktapur, NP</strong>"
     conference: Developing a lecture series about "Living and Studying in Germany", 06/2017 - 07/2017.
     page: https://www.vhsbhaktapur.org/
 
   - title: "Volunteer"
-    authors: <strong>@ Haus Leo, Berliner Stadtmission, Berlin, DE</strong>
+    authors: "<strong>@ Haus Leo, Berliner Stadtmission, Berlin, DE</strong>"
     conference: Mentoring children of fled people and helping them with homework, 02/2017 - 03/2017.
     page: https://www.berliner-stadtmission.de/angebote/flucht-migration-und-integration#haus-leo-gemeinschaftsunterkunft-fuer-gefluechtete
 
   - title: "Volunteer"
-    authors: <strong>@ Bahnhofsmission am Hauptbahnhof, Berlin, DE</strong>
+    authors: "<strong>@ Bahnhofsmission am Hauptbahnhof, Berlin, DE</strong>"
     conference: Hosting and advising people with no home, 01/2017- 03/2017.
     page: https://www.berliner-stadtmission.de/bahnhofsmission/bahnhofsmission-am-hauptbahnhof
 
