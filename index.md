@@ -15,7 +15,7 @@ In a world where AI plays an ever-growing role in shaping our lives, ensuring it
 
 - **Decentralized Identity:** Decentralized Identifiers, Verifiable Credentials, Self-sovereign Identity
 - **Decentralized Systems Engineering:** Blockchain, InterPlanetary File System, Multiparty Computation
-- **Trustworthy AI:** Decentralized Federated Learning, zkML, Zero-knowledge Proof, Personhood Credentials, Homomorphic Encryption, Differential Privacy
+- **Trustworthy AI:** zkML, Zero-knowledge Proof, Personhood Credentials, Decentralized Federated Learning, Homomorphic Encryption, Differential Privacy
 
 ## News
 
