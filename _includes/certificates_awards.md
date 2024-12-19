@@ -1,4 +1,4 @@
-<h2 id="certificates-awards" style="margin: 2px 0px -15px;">Certificates & Awards</h2>
+<h2 id="certificates-&-awards" style="margin: 2px 0px -15px;">Certificates & Awards</h2>
 
 <div class="publications">
 <ol class="bibliography">
