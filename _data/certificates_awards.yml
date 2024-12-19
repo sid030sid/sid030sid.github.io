@@ -2,26 +2,21 @@ main:
 
   - title: "Good scientific practice in doctoral studies"
     authors: <strong>Sid Lamichhane</strong>
-    conference: Six week long educational bootcamp on Machine Learning with Zero-Knowledge Proofs (zkML), May 2024.
-    pdf: ./assets/img/certificates/zkml_bootcamp_certificiate.avif
-    image: ./assets/img/certificates/zkml_bootcamp_certificiate.avif
-    notes: Certificate
-
+    conference: Crash course on good practices for PhD students, May 2024.
+    pdf: ./assets/img/certificates/scientific_practice_certificate.pdf
+    page: https://programm.zewk.tu-berlin.de/en/events/018ef0a0-38d8-7146-aa9c-6fe1be2a368d?scopeFilter%5Bpublicly_visible%5D=true&scopeFilter%5Bhidden_in_lists%5D=false&scopeFilter%5Bended%5D=false
+    
   - title: "zkML Bootcamp"
     authors: <strong>Sid Lamichhane</strong>
     conference: Six week long educational bootcamp on Machine Learning with Zero-Knowledge Proofs (zkML), March 2024.
-    pdf: ./assets/img/certificates/zkml_bootcamp_certificiate.avif
-    image: ./assets/img/certificates/zkml_bootcamp_certificiate.avif
-    notes: Certificate
-    page: https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/10976
+    pdf: https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/10976
+    page: https://www.encode.club/zkml-bootcamp
 
   - title: "Solidity Bootcamp"
     authors: <strong>Sid Lamichhane</strong>
     conference: 8 week long educational bootcamp on Solidity programming for smart contracts on Ethereum, June 2022.
-    pdf: ./assets/img/solidity_bootcamp_certificate.avif
-    image: ./assets/img/certificates/solidity_bootcamp_certificate.avif
-    notes: Certificate
-    page: https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/12182
+    pdf: https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/12182
+    page: https://www.encode.club/solidity-bootcamps
 
   - title: "Deutschlandstipendium"
     authors: <strong>Sid Lamichhane</strong>
@@ -31,6 +26,7 @@ main:
 
   - title: "Design Thinking"
     authors: <strong>Sid Lamichhane</strong>
-    conference: Crash course on Design Thinking and its application, October 2021.
+    conference: Crash course on Design Thinking and how to teach it to your team, October 2021.
     pdf: ./assets/img/certificates/design_thinking_certificate.pdf
-    notes: Certificate
+    page: https://www.interaction-design.org/literature/topics/design-thinking?srsltid=AfmBOorsuMVu2sfnts1qh3zRYgRTB0ZuaQvi16pKYwXRnDid-xUnpbD2
+    
