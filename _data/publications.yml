@@ -31,11 +31,19 @@ main:
     notes: Demo paper
     image: ./assets/img/teaser_resume_demo.png
 
+  - title: "Fake News in Digital Markets"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: TUB
+    conference: Research project of Digital Markets Lab at TU Berlin <strong>(TUB)</strong>, July 2024.
+    pdf: ./assets/img/report_fake_news_digital_markets.pdf
+    image: ./assets/img/teaser_fake_news_in_digital_markets.png
+    notes: Research report
+
   - title: "zkML Bootcamp"
     authors: <strong>Sid Lamichhane</strong>
     conference: Six week long educational bootcamp on Machine Learning with Zero-Knowledge Proofs (zkML), March 2024.
-    pdf: ./assets/img/zkml_bootcamp_certificiate.avif
-    image: ./assets/img/zkml_bootcamp_certificiate.avif
+    pdf: ./assets/img/certificates/zkml_bootcamp_certificiate.avif
+    image: ./assets/img/certificates/zkml_bootcamp_certificiate.avif
     notes: Certificate
 
   - title: "DIDChain: Advancing Supply Chain Data Management with Decentralized Identifiers and Blockchain"
