@@ -25,7 +25,7 @@ main:
     authors: <strong>Sid Lamichhane</strong>
     conference_short: TUB
     conference: Research project conducted at the Digital Markets Lab of TU Berlin <strong>(TUB)</strong>, exploring the spread and impact of fake news in digital markets, Summer 2024.
-    pdf: ./assets/img/report_fake_news_digital_markets.pdf
+    pdf: ./assets/files/report_fake_news_digital_markets.pdf
     image: ./assets/img/teaser_fake_news_in_digital_markets.png
     notes: Research project
 
@@ -38,7 +38,7 @@ main:
     notes: Research project
     image: ./assets/img/teaser_dynamic.png
 
-  - title: "Fair Data"
+  - title: "FairData"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: LINK
     conference: Hackathon project exploring data tokenization solutions using Chainlink <strong>(LINK)</strong>, aimed at ensuring fair data access and usage, Fall 2022.
