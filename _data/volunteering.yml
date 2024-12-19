@@ -1,0 +1,44 @@
+main:
+  - title: "Researcher"
+    authors: <strong>10/2024 - present | @ Decentralized Identity Foundation, online</strong>
+    conference: Member of working group "Identifiers & Discovery"
+    page: https://identity.foundation/working-groups/identifiers-discovery.htm
+
+  - title: "Climbing coach for teenage competition climbers"
+    authors: <strong>10/2023 - present | @ German Alpine Club, Berlin, DE</strong>
+    conference: Organizing and executing weekly training programs for teenage competition climbers
+
+  - title: "Co-leader"
+    authors: <strong>10/2022 - present< | @ Zero Emissions Group (EPFL), Lausanne, CH /strong>
+    conference: Strategy, management, and web development for project EcoLens
+    page: https://zeroemission.group/ecolens/
+  
+  - title: "Design Thinking Coach"
+    authors: <strong> 11/2021 | @ Zukunftskongress, Berlin, DE</strong>
+    pdf: ./assets/img/certificates/design_thinking_certificate.pdf
+    conference: Guiding a group of students and professors of TU Berlin to apply Design Thinking for the future of TU Berlin
+
+  - title: "Volunteer"
+    authors: <strong> 10/2018 - 09/2022 | @ Buddy Program, Berlin, DE</strong>
+    conference: Advising international students at TU Berlin   
+    page: https://www.tu.berlin/en/international/students-1/internationalizationhome/buddy-program
+  
+  - title: "Lecturer"
+    authors: <strong> 01.06.2017 - 01.07.2027 | @ VHS Bhaktapur, Bhaktapur, NP</strong>
+    conference: Developing a lecture series about "Living and Studying in Germany" 
+    page: https://www.vhsbhaktapur.org/
+
+  - title: "Volunteer"
+    authors: <strong> 10/2018 - 02/2022 | @ Haus Leo, Berliner Stadtmission, Berlin, DE</strong>
+    conference: Mentoring children of fled people and helping them with homework   
+    page: https://www.berliner-stadtmission.de/angebote/flucht-migration-und-integration#haus-leo-gemeinschaftsunterkunft-fuer-gefluechtete
+
+  - title: "Volunteer"
+    authors: <strong> 01/2017- 03/2017 | @ Bahnhofsmission am Hauptbahnhof, Berlin, DE</strong>
+    conference: Traveling aid for elderlies, children and people with disabilities at Berlin central train station & hosting and advising people with no home
+    page: https://www.berliner-stadtmission.de/bahnhofsmission/bahnhofsmission-am-hauptbahnhof
+
+  
+
+
+ 

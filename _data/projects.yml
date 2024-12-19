@@ -3,7 +3,7 @@ main:
   - title: "did:ipfs"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: DIF
-    conference: Self-initiated research project during Decentralized Identity Foundation <strong>(DIF)</strong> Hackathon, 2024.
+    conference: Self-initiated research project during Decentralized Identity Foundation <strong>(DIF)</strong> Hackathon, October 2024.
     pdf: https://github.com/sid030sid/did-ipfs-service-provider?tab=readme-ov-file#about-didipfs
     code: https://github.com/sid030sid/did-ipfs-service-provider
     #bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -14,7 +14,7 @@ main:
   - title: "Fake News in Digital Markets"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: TUB
-    conference: Research project of Digital Markets Lab at TU Berlin <strong>(TUB)</strong>, July 2024.
+    conference: Research project of Digital Markets Lab at TU Berlin <strong>(TUB)</strong>, summer 2024.
     pdf: ./assets/img/report_fake_news_digital_markets.pdf
     image: ./assets/img/teaser_fake_news_in_digital_markets.png
     notes: Research report
@@ -22,10 +22,31 @@ main:
   - title: "DYNAMIC - Clustering Data Derived from Clinical Decision Support System"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: EPFL
-    conference: Research project of Intelligent Global Health Lab at École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, 2023.
+    conference: Research project of Intelligent Global Health Lab at École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, spring 2023.
     pdf: ./assets/files/report_dynamic.pdf
     code: https://github.com/sid030sid/DYNAMIC-igh-ml-semester-project
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Research report
     image: ./assets/img/teaser_dynamic.png
+
+  - title: "Fair Data"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: LINK
+    conference: Hackathon project for tokenization of data using Chainlink <strong>(LINK)</strong>, Fall 2022.
+    code: https://github.com/sid030sid/chainlink-hackathon-fairData
+    notes: Coding project
+    
+  - title: "NLP: Machine Translation"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: TUB
+    conference: Code project for Natural Lanugage Processing course at TU Berlin <strong>(TUB)</strong>, summer 2022.
+    code: https://github.com/sid030sid/machine-translation
+    notes: Coding project
+
+  - title: "NLP: Text Classification and Textual Similarity"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: TUB
+    conference: Code project for Natural Lanugage Processing course at TU Berlin <strong>(TUB)</strong>, summer 2022.
+    code: https://github.com/sid030sid/nlp-text-classification-and-textual-similarity
+    notes: Coding project

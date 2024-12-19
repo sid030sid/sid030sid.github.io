@@ -1,14 +1,4 @@
 main:
-
-  - title: "did:ipfs"
-    authors: <strong>Sid Lamichhane</strong>
-    conference_short: DIF
-    conference: Self-initiated research project during Decentralized Identity Foundation <strong>(DIF)</strong> Hackathon, 2024.
-    pdf: https://github.com/sid030sid/did-ipfs-service-provider?tab=readme-ov-file#about-didipfs
-    code: https://github.com/sid030sid/did-ipfs-service-provider
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_did_ipfs.jpg
-    notes: Research project
   
   - title: "Verifiable Decentralized IPFS Cluster: Unlocking Trustworthy Data Permanency for Off-Chain Storage"
     authors: <strong>Sid Lamichhane</strong>, Patrick Herbke
@@ -31,21 +21,6 @@ main:
     notes: Demo paper
     image: ./assets/img/teaser_resume_demo.png
 
-  - title: "Fake News in Digital Markets"
-    authors: <strong>Sid Lamichhane</strong>
-    conference_short: TUB
-    conference: Research project of Digital Markets Lab at TU Berlin <strong>(TUB)</strong>, July 2024.
-    pdf: ./assets/img/report_fake_news_digital_markets.pdf
-    image: ./assets/img/teaser_fake_news_in_digital_markets.png
-    notes: Research report
-
-  - title: "zkML Bootcamp"
-    authors: <strong>Sid Lamichhane</strong>
-    conference: Six week long educational bootcamp on Machine Learning with Zero-Knowledge Proofs (zkML), March 2024.
-    pdf: ./assets/img/certificates/zkml_bootcamp_certificiate.avif
-    image: ./assets/img/certificates/zkml_bootcamp_certificiate.avif
-    notes: Certificate
-
   - title: "DIDChain: Advancing Supply Chain Data Management with Decentralized Identifiers and Blockchain"
     authors: Patrick Herbke, <strong>Sid Lamichhane</strong>, Kaustabh Barman, Sanjeet Raj Pandey, Axel Küpper, Andreas Abraham, Markus Sabadello
     conference_short: SOSE
@@ -56,14 +31,3 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Conference paper
     image: ./assets/img/teaser_didchain.png
-
-  - title: "DYNAMIC - Clustering Data Derived from Clinical Decision Support System"
-    authors: <strong>Sid Lamichhane</strong>
-    conference_short: EPFL
-    conference: Research project of Intelligent Global Health Lab at École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, 2023.
-    pdf: ./assets/files/report_dynamic.pdf
-    code: https://github.com/sid030sid/DYNAMIC-igh-ml-semester-project
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Research report
-    image: ./assets/img/teaser_dynamic.png
