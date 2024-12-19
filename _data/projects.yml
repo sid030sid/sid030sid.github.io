@@ -27,7 +27,7 @@ main:
     conference: Research project conducted at the Digital Markets Lab of TU Berlin <strong>(TUB)</strong>, exploring the spread and impact of fake news in digital markets, Summer 2024.
     pdf: ./assets/img/report_fake_news_digital_markets.pdf
     image: ./assets/img/teaser_fake_news_in_digital_markets.png
-    notes: Research report
+    notes: Research project
 
   - title: "DYNAMIC - Clustering Data Derived from Clinical Decision Support System"
     authors: <strong>Sid Lamichhane</strong>
@@ -35,7 +35,7 @@ main:
     conference: Research project at the Intelligent Global Health Lab of École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, focusing on clustering data from real-world clinical decision support systems, Spring 2023.
     pdf: ./assets/files/report_dynamic.pdf
     code: https://github.com/sid030sid/DYNAMIC-igh-ml-semester-project
-    notes: Research report
+    notes: Research project
     image: ./assets/img/teaser_dynamic.png
 
   - title: "Fair Data"
