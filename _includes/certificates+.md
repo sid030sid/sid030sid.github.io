@@ -1,9 +1,9 @@
-<h2 id="certificates-&-awards" style="margin: 2px 0px -15px;">Certificates & Awards</h2>
+<h2 id="certificates" style="margin: 2px 0px -15px;">Certificates</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.certificates_awards.main %}
+{% for link in site.data.certificates.main %}
 
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
