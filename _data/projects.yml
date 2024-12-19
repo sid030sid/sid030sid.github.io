@@ -7,9 +7,10 @@ main:
     pdf: https://github.com/sid030sid/did-ipfs-service-provider?tab=readme-ov-file#about-didipfs
     code: https://github.com/sid030sid/did-ipfs-service-provider
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    demo_video: https://www.youtube.com/watch?v=aabA1dFT-hI
     image: ./assets/img/teaser_did_ipfs.jpg
     notes: Research project
+    page: https://devpost.com/software/did-ipfs
 
   - title: "SupplyTrust"
     authors: <strong>Sid Lamichhane</strong>
@@ -17,9 +18,10 @@ main:
     conference: Decentralized Identity Foundation <strong>(DIF)</strong> Hackathon project about decentralized supply chain data management system unlocking transparency, traceability, and trust in supply chains, October 2024.
     code: https://github.com/sid030sid/supply-trust
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    page: https://www.youtube.com/watch?v=UfLoIFfljGA
+    demo_video: https://www.youtube.com/watch?v=UfLoIFfljGA
     image: ./assets/img/teaser_supply_trust.png
     notes: Coding projects
+    page: https://devpost.com/software/supplytrust
 
   - title: "Fake News in Digital Markets"
     authors: <strong>Sid Lamichhane</strong>
@@ -47,6 +49,8 @@ main:
     code: https://github.com/sid030sid/chainlink-hackathon-fairData
     notes: Coding project
     image: ./assets/img/teaser_coding_pj.jpg
+    demo_video: https://www.youtube.com/watch?v=KofzL0dpWxU&,
+    page: https://devpost.com/software/dhartha
     
   - title: "NLP: Machine Translation"
     authors: <strong>Sid Lamichhane</strong>
