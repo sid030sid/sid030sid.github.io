@@ -1,4 +1,4 @@
-<h2 id="volunteering" style="margin: 2px 0px -15px;">Voluntary Work</h2>
+<h2 id="voluntary-work" style="margin: 2px 0px -15px;">Voluntary Work</h2>
 
 <div class="publications">
 <ol class="bibliography">
