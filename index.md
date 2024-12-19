@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Student Research Assistant at the Service-centric Networking Lab (SNET) of Technical University Berlin, driven by a passion for advancing innovative technologies in Decentralized Identity and Decentralized Systems Engineering. 
-My enthusiasm for research stems from the excitement of tackling complex problems, exploring innovative ideas, and contributing to impactful solutions. 
+I am a Student Research Assistant at the Service-centric Networking Lab (SNET) of Technical University Berlin. My enthusiasm for research stems from the excitement of tackling complex problems, exploring innovative ideas, and contributing to impactful solutions. 
 I deeply enjoy the process of reading, writing, and presenting research that has the potential to drive meaningful change.
 
 After completing my Master's in Data Science and Engineering, I aim to combine my expertise in AI with my research at SNET to advance the evolving field of Trustworthy AI.
