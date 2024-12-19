@@ -19,7 +19,7 @@ In a world where AI plays an ever-growing role in shaping our lives, ensuring it
 
 ## News
 
-- **[Oct. 2024]** Presentation of [VDIC paper](https://ieeexplore.ieee.org/abstract/document/10732266) @ the Conference on Blockchain Research & Applications for Innovative Networks and Services.
+- **[Oct. 2024]** Presentation of [VDIC paper](https://ieeexplore.ieee.org/abstract/document/10732266) @ the Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS).
 - **[Sep. 2024]** Presentation of [VDIC paper](https://ieeexplore.ieee.org/abstract/document/10732266) @ the TUM Blockchain Conference (see [video recording](https://www.youtube.com/watch?v=cieSpOdJZVs)).
 - **[Jul. 2024]** [DIDChain](https://ieeexplore.ieee.org/document/10685340) wins best paper award @ IEEE International Conference on Service-Oriented System Engineering.
 

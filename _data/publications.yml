@@ -36,7 +36,7 @@ main:
     conference_short: TUB
     conference: Research project of Digital Markets Lab at TU Berlin <strong>(TUB)</strong>, July 2024.
     pdf: ./assets/img/report_fake_news_digital_markets.pdf
-    image: ./assets/img/teaser_fake_news_in_digital_markets.png
+    image: ./assets/img/teaser_fake_news_in_digital_markets2.png
     notes: Research report
 
   - title: "zkML Bootcamp"
