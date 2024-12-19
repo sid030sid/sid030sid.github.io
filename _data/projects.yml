@@ -11,6 +11,16 @@ main:
     image: ./assets/img/teaser_did_ipfs.jpg
     notes: Research project
 
+  - title: "SupplyTrust"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: DIF
+    conference: Decentralized Identity Foundation <strong>(DIF)</strong> Hackathon project about decentralized supply chain data management system unlocking transparency, traceability, and trust in supply chains, October 2024.
+    code: https://github.com/sid030sid/supply-trust
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    page: https://www.youtube.com/watch?v=UfLoIFfljGA
+    image: ./assets/img/teaser_supply_trust.png
+    notes: Coding projects
+
   - title: "Fake News in Digital Markets"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: TUB
@@ -33,20 +43,23 @@ main:
   - title: "Fair Data"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: LINK
-    conference: Hackathon project for tokenization of data using Chainlink <strong>(LINK)</strong>, Fall 2022.
+    conference: Hackathon project about tokenization of data using Chainlink <strong>(LINK)</strong>, Fall 2022.
     code: https://github.com/sid030sid/chainlink-hackathon-fairData
     notes: Coding project
+    image: ./assets/img/teaser_coding_pj.jpg
     
   - title: "NLP: Machine Translation"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: TUB
-    conference: Code project for Natural Lanugage Processing course at TU Berlin <strong>(TUB)</strong>, summer 2022.
+    conference: Coding project for Natural Lanugage Processing course at TU Berlin <strong>(TUB)</strong>, summer 2022.
     code: https://github.com/sid030sid/machine-translation
     notes: Coding project
+    image: ./assets/img/teaser_coding_pj.jpg
 
   - title: "NLP: Text Classification and Textual Similarity"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: TUB
-    conference: Code project for Natural Lanugage Processing course at TU Berlin <strong>(TUB)</strong>, summer 2022.
+    conference: Coding project for Natural Lanugage Processing course at TU Berlin <strong>(TUB)</strong>, summer 2022.
     code: https://github.com/sid030sid/nlp-text-classification-and-textual-similarity
     notes: Coding project
+    image: ./assets/img/teaser_coding_pj.jpg
