@@ -19,7 +19,7 @@ main:
     authors: <strong>Sid Lamichhane</strong>
     conference: 8 week long educational bootcamp on Solidity programming for smart contracts on Ethereum, June 2022.
     pdf: ./assets/img/solidity_bootcamp_certificate.avif
-    image: ./assets/img/solidity_bootcamp_certificate.avif
+    image: ./assets/img/certificates/solidity_bootcamp_certificate.avif
     notes: Certificate
     page: https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/12182
 
@@ -33,5 +33,4 @@ main:
     authors: <strong>Sid Lamichhane</strong>
     conference: Crash course on Design Thinking and its application, October 2021.
     pdf: ./assets/img/certificates/design_thinking_certificate.pdf
-    image: ./assets/img/certificates/design_thinking_certificate.pdf
     notes: Certificate
