@@ -3,7 +3,7 @@ main:
   - title: "Verifiable Decentralized IPFS Cluster: Unlocking Trustworthy Data Permanency for Off-Chain Storage"
     authors: <strong>Sid Lamichhane</strong>, Patrick Herbke
     conference_short: BRAINS
-    conference: Conference on Blockchain Research & Applications for Innovative Networks and Services <strong>(BRAINS)</strong>, 2024.
+    conference: Conference on Blockchain Research & Applications for Innovative Networks and Services <strong>(BRAINS)</strong>, Fall 2024.
     pdf: https://arxiv.org/abs/2408.07023
     code: https://github.com/sid030sid/evaluation-vdic
     #bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -13,7 +13,7 @@ main:
   - title: "Lifecycle Management of Resumés with Decentralized Identifiers and Verifiable Credentials"
     authors: Patrick Herbke, Anish Sapkota, <strong>Sid Lamichhane</strong>
     conference_short: BRAINS
-    conference: Conference on Blockchain Research & Applications for Innovative Networks and Services <strong>(BRAINS)</strong>, 2024.
+    conference: Conference on Blockchain Research & Applications for Innovative Networks and Services <strong>(BRAINS)</strong>, Fall 2024.
     pdf: https://arxiv.org/abs/2406.11535
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -24,7 +24,7 @@ main:
   - title: "DIDChain: Advancing Supply Chain Data Management with Decentralized Identifiers and Blockchain"
     authors: Patrick Herbke, <strong>Sid Lamichhane</strong>, Kaustabh Barman, Sanjeet Raj Pandey, Axel Küpper, Andreas Abraham, Markus Sabadello
     conference_short: SOSE
-    conference: IEEE International Conference on Service-Oriented System Engineering <strong>(SOSE)</strong>, 2024.
+    conference: IEEE International Conference on Service-Oriented System Engineering <strong>(SOSE)</strong>, Spring 2024.
     pdf: https://arxiv.org/abs/2406.11356
     code: https://github.com/sid030sid/DIDChain
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
