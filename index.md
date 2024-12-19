@@ -24,3 +24,9 @@ In a world where AI plays an ever-growing role in shaping our lives, ensuring it
 - **[Jul. 2024]** [DIDChain](https://ieeexplore.ieee.org/document/10685340) wins best paper award @ IEEE International Conference on Service-Oriented System Engineering.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
+
+{% include_relative _includes/certificates_awards.md %}
+
+
