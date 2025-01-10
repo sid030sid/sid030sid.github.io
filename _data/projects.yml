@@ -32,7 +32,7 @@ main:
   - title: "DYNAMIC - Clustering Data Derived from Clinical Decision Support System"
     authors: <strong>Sid Lamichhane</strong>, Mary-Anne Hartley, Martin Jaggi, Alexandra Kulinkina, Zsofia Hesketh
     conference_short: EPFL
-    conference: Research project at the Intelligent Global Health Lab of École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, focusing on clustering data from real-world clinical decision support systems, Spring 2023.
+    conference: Research project at the Intelligent Global Health Lab of École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, focusing on clustering data from real-world clinical decision support systems for syndromic surveillance, Spring 2023.
     pdf: ./assets/files/report_dynamic.pdf
     code: https://github.com/sid030sid/DYNAMIC-igh-ml-semester-project
     notes: Research project
