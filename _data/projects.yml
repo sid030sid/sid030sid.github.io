@@ -37,6 +37,7 @@ main:
     code: https://github.com/sid030sid/DYNAMIC-igh-ml-semester-project
     notes: Research project
     image: ./assets/img/teaser_dynamic.png
+    page: https://dynamic-study.com/
 
   - title: "Deep Learning for Edge-AI Respiratory Disorder Monitoring"
     authors: "Simon Aquarone, Zhengru (James) Fang, <strong>Sid Lamichhane</strong>, Lara Orlandic (Supervisor)"
