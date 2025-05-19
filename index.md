@@ -20,6 +20,7 @@ In a world where AI plays an ever-growing role in shaping our lives, ensuring it
 
 - **[Oct. 2024]** Presentation of [VDIC paper](https://ieeexplore.ieee.org/abstract/document/10732266) @ the Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS).
 - **[Sep. 2024]** Presentation of [VDIC paper](https://ieeexplore.ieee.org/abstract/document/10732266) @ the TUM Blockchain Conference (see [video recording](https://www.youtube.com/watch?v=cieSpOdJZVs)).
+- **[Aug. 2024]** [Blog post](https://cheqd.io/blog/using-cheqd-for-verifiable-supply-chains/) for supply chain industry about trustworthy supply chain data management through cheqd's Blockchain-based Decentralized Identifiers.
 - **[Jul. 2024]** [DIDChain](https://ieeexplore.ieee.org/document/10685340) wins best paper award @ IEEE International Conference on Service-Oriented System Engineering.
 
 {% include_relative _includes/publications.md %}
