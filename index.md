@@ -16,7 +16,8 @@ I deeply enjoy the process of reading, writing, and presenting research that has
 - **Decentralized Identity:** Decentralized Identifiers, Verifiable Credentials, Self-sovereign Identity
 - **Decentralized Systems Engineering:** Decentralized Applications, Blockchain, Decentralized Storage Systems, InterPlanetary File System
 - **Trustworthy AI:** zkML, Personhood Credentials, Decentralized Federated Learning
-[//]: <>(- **Privacy-enhancing Technologies:** Zero-knowledge Proof, Multiparty Computation, Homomorphic Encryption, Differential Privacy)
+
+[//]: <> (- **Privacy-enhancing Technologies:** Zero-knowledge Proof, Multiparty Computation, Homomorphic Encryption, Differential Privacy)
 
 ## News
 
