@@ -13,8 +13,8 @@ In a world where AI plays an ever-growing role in shaping our lives, ensuring it
 ## Research Interests
 
 - **Decentralized Identity:** Decentralized Identifiers, Verifiable Credentials, Self-sovereign Identity
-- **Decentralized Systems Engineering:** Blockchain, InterPlanetary File System, Multiparty Computation
-- **Trustworthy AI:** zkML, Zero-knowledge Proof, Personhood Credentials, Decentralized Federated Learning, Homomorphic Encryption, Differential Privacy
+- **Decentralized Systems Engineering:** Decentralized Applications, Blockchain, Decentralized Storage Systems, InterPlanetary File System
+- **Trustworthy AI:** zkML, Zero-knowledge Proof, Personhood Credentials, Decentralized Federated Learning, Homomorphic Encryption, Differential Privacy, Multiparty Computation
 
 ## News
 

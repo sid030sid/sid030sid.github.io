@@ -29,6 +29,15 @@ main:
     image: ./assets/img/teaser_fake_news_in_digital_markets.png
     notes: Research project
 
+  - title: "Tokenization of Investment Club Shares"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: Invero AG, URI, CH
+    conference: Industry project at <strong>Invero AG</strong> for developiong a decentralized platform for tokenizing and buying investment club shares in compliance with Swiss regulations, Summer 2023.
+    pdf: ./assets/files/invero_work_certificate.pdf
+    notes: Industry project
+    image: ./assets/img/teaser_invero.png
+    page: https://www.invero.io/en/
+
   - title: "DYNAMIC - Clustering Data Derived from Clinical Decision Support System"
     authors: <strong>Sid Lamichhane</strong>, Mary-Anne Hartley, Martin Jaggi, Alexandra Kulinkina, Zsofia Hesketh
     conference_short: EPFL
