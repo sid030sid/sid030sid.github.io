@@ -12,7 +12,7 @@ I deeply enjoy the process of reading, writing, and presenting research that has
 [//]: <> (After completing my Master's, I aim to combine my expertise in AI with my research at the Service-centric Networking Lab to advance the evolving field of Trustworthy AI. In a world where AI plays an ever-growing role in shaping our lives, ensuring its trustworthiness is essential for safeguarding democratic values such as privacy, accountability, and the decentralization of power.)
 
 ## Research Interests
-[//]: <> (- **Privacy-enhancing Technologies:** Zero-knowledge Proof, Multiparty Computation, Homomorphic Encryption, Differential Privacy)
+[//]: <> (**Privacy-enhancing Technologies:** Zero-knowledge Proof, Multiparty Computation, Homomorphic Encryption, Differential Privacy)
 
 - **Decentralized Identity:** Decentralized Identifiers, Verifiable Credentials, Self-sovereign Identity
 - **Decentralized Systems Engineering:** Decentralized Applications, Blockchain, Decentralized Storage Systems, InterPlanetary File System
