@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master's student in Data Science and Engineering at the Technical University of Berlin, currently in my final semester.
+I am currently in the final semester of my Master’s program in Information Systems Management, specializing in Data Science and Engineering, at the Technical University of Berlin.
 
 My enthusiasm for research stems from the excitement of tackling complex problems, exploring innovative ideas, and contributing to impactful solutions. 
 I deeply enjoy the process of reading, writing, and presenting research that has the potential to drive meaningful change.
