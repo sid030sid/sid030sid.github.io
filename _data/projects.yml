@@ -31,8 +31,8 @@ main:
 
   - title: "Tokenization of Investment Club Shares"
     authors: <strong>Sid Lamichhane</strong>
-    conference_short: Invero AG, URI, CH
-    conference: Industry project at <strong>Invero AG</strong> for developiong a decentralized platform for tokenizing and buying investment club shares in compliance with Swiss regulations, Summer 2023.
+    conference_short: Invero AG
+    conference: Industry project at <strong>Invero AG</strong> (URI, CH) for developiong a decentralized platform for tokenizing and buying investment club shares in compliance with Swiss regulations, Summer 2023.
     pdf: ./assets/files/invero_work_certificate.pdf
     notes: Industry project
     image: ./assets/img/teaser_invero.png
