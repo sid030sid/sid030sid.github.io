@@ -4,13 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a student at Technical University Berlin and in the last semester of my Master's in Data Science and Engineering. 
+I am a Master's student in Data Science and Engineering at the Technical University of Berlin, currently in my final semester.
 
 My enthusiasm for research stems from the excitement of tackling complex problems, exploring innovative ideas, and contributing to impactful solutions. 
 I deeply enjoy the process of reading, writing, and presenting research that has the potential to drive meaningful change.
 
-[//]: <> (After completing my Master's, I aim to combine my expertise in AI with my research at the Service-centric Networking Lab to advance the evolving field of Trustworthy AI.
-In a world where AI plays an ever-growing role in shaping our lives, ensuring its trustworthiness is essential for safeguarding democratic values such as privacy, accountability, and the decentralization of power.)
+[//]: <> (After completing my Master's, I aim to combine my expertise in AI with my research at the Service-centric Networking Lab to advance the evolving field of Trustworthy AI. In a world where AI plays an ever-growing role in shaping our lives, ensuring its trustworthiness is essential for safeguarding democratic values such as privacy, accountability, and the decentralization of power.)
 
 ## Research Interests
 
