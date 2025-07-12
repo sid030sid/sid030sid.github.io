@@ -41,9 +41,9 @@ main:
   - title: "Tokenization of Investment Club Shares"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: Invero AG
-    conference: Industry project at <strong>Invero AG</strong> (URI, CH) centered on building a decentralized platform for tokenizing and purchasing investment club shares in compliance with Swiss regulations, Summer 2023.
+    conference: Coding project during internship at <strong>Invero AG</strong> (URI, CH) centered on building a decentralized platform for tokenizing and purchasing investment club shares in compliance with Swiss regulations, Summer 2023.
     pdf: ./assets/files/invero_work_certificate.pdf
-    notes: Industry project
+    notes: Coding project
     image: ./assets/img/teaser_invero.png
     page: https://www.invero.io/en/
 
@@ -58,7 +58,7 @@ main:
     page: https://dynamic-study.com/
 
   - title: "Deep Learning for Edge-AI Respiratory Disorder Monitoring"
-    authors: "Simon Aquarone, Zhengru (James) Fang, <strong>Sid Lamichhane</strong>, Lara Orlandic (Supervisor)"
+    authors: "Simon Aquarone, Zhengru (James) Fang, <strong>Sid Lamichhane</strong>, Lara Orlandic"
     conference_short: EPFL
     conference: Research project at the Embedded Systems Lab of École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, focusing on the development of lightweight CNN-based architectures for real-time cough detection on edge devices that classify audio and inertial measurement unit signals with high accuracy under memory constraints (<16,000 parameters), Winter 2022.
     pdf: ./assets/files/report_edge_cough_detector.pdf
