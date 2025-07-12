@@ -17,6 +17,7 @@ main:
 
   - title: "Deutschlandstipendium"
     conference: Scholarship for academic excellence and extra curricular commitment, 2022 - 2025.
+    pdf: ./assets/files/dstip-certificates.pdf
     page: https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html
     notes: Scholarship award
 
