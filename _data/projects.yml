@@ -1,8 +1,8 @@
 main:
-  - title: "Self-sovereign Ecolens"
+  - title: "Self-sovereign EcoLens"
     authors: <strong>Sid Lamichhane</strong>
-    conference_short: LauzHack / Ecolens
-    conference: Self-sovereign Ecolens is a decentralized information system that enables the issuance and redemption of Ecopoints as rewards for sustainable eating habits, without relying on centralized servers. The system was developed as a contribution to the <strong>LauzHack</strong> hackathon and the <a href="https://zeroemission.group/ecolens/">Ecolens</a> project, December 2024.
+    conference_short: LauzHack / EcoLens
+    conference: Self-sovereign EcoLens is a decentralized information system that enables the issuance and redemption of Ecopoints as rewards for sustainable eating habits, without relying on centralized servers. The system was developed as a contribution to the <strong>LauzHack</strong> hackathon and the <a href="https://zeroemission.group/ecolens/">EcoLens</a> project, December 2024.
     code: https://github.com/sid030sid/self-sovereign-ecolens
     demo_video: https://www.youtube.com/watch?v=jX1_tHvjJ_I
     image: ./assets/img/teaser_self_sovereign_ecolens.jpg
