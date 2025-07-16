@@ -23,10 +23,10 @@ main:
   - title: "Academic Issuer"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: Trace4EU / EBSI
-    conference: As part of the <strong><a href=https://trace4eu.eu/>Trace4EU</a></strong> research project, designed and implemented the first version of a web app that enables academic institutions to issue digital credentials (such as diplomas, language certificates, and student ID cards) in line with W3C standards for Verifiable Credentials, the OpenID for Verifiable Credential Issuance protocol, and Decentralized Identifiers, within the framework of the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Winter 2024.
+    conference: As part of the <a href=https://trace4eu.eu/>Trace4EU</a> research project, designed and implemented the first version of a web app that enables academic institutions to issue digital credentials (such as diplomas, language certificates, and student ID cards) in line with W3C standards for Verifiable Credentials, the OpenID for Verifiable Credential Issuance protocol, and Decentralized Identifiers, within the framework of the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Autumn 2024.
     code: https://github.com/trace4eu/uc-resume-t52
     #demo_video: todo
-    image: ./assets/img/teaser_trace4eu.jpg
+    image: ./assets/img/teaser_academic_issuer.jpg
     notes: Coding project
     page: https://academic-issuer.trace4eu.eu/issue
 
