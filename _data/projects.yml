@@ -12,7 +12,7 @@ main:
   - title: "did:ipfs"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: DIF
-    conference: Self-initiated research project during the Decentralized Identity Foundation <strong>(DIF)</strong> Hackathon, focused on creating a DID method for to enhance the identification of files in IPFS, October 2024.
+    conference: Self-initiated research project during the Decentralized Identity Foundation (<strong>DIF</strong>) Hackathon, focused on creating a DID method for to enhance the identification of files in IPFS, October 2024.
     pdf: https://github.com/sid030sid/did-ipfs-service-provider?tab=readme-ov-file#about-didipfs
     code: https://github.com/sid030sid/did-ipfs-service-provider
     demo_video: https://www.youtube.com/watch?v=aabA1dFT-hI
@@ -20,10 +20,20 @@ main:
     notes: Research project
     page: https://devpost.com/software/did-ipfs
 
+  - title: "Academic Issuer"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: Trace4EU / EBSI
+    conference: As part of the <strong><a href=https://trace4eu.eu/>Trace4EU</a></strong> research project, designed and implemented the first version of a web app that enables academic institutions to issue digital credentials (such as diplomas, language certificates, and student ID cards) in line with W3C standards for Verifiable Credentials, the OpenID for Verifiable Credential Issuance protocol, and Decentralized Identifiers, within the framework of the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Winter 2024.
+    code: https://github.com/trace4eu/uc-resume-t52
+    #demo_video: todo
+    image: ./assets/img/teaser_trace4eu.jpg
+    notes: Coding project
+    page: https://academic-issuer.trace4eu.eu/issue
+
   - title: "SupplyTrust"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: DIF
-    conference: SupplyTrust is a decentralized supply chain data management system designed to enhance transparency, traceability, and trust, developed as a contribution to the Decentralized Identity Foundation <strong>(DIF)</strong> hackathon, October 2024.
+    conference: SupplyTrust is a decentralized supply chain data management system designed to enhance transparency, traceability, and trust, developed as a contribution to the Decentralized Identity Foundation (<strong>DIF</strong>) hackathon, October 2024.
     code: https://github.com/sid030sid/supply-trust
     demo_video: https://www.youtube.com/watch?v=UfLoIFfljGA
     image: ./assets/img/teaser_supply_trust.png
@@ -33,7 +43,7 @@ main:
   - title: "Fake News in Digital Markets"
     authors: <strong>Sid Lamichhane</strong>, Nancy Wünderlich
     conference_short: TUB
-    conference: Research project conducted at the Digital Markets Lab of TU Berlin <strong>(TUB)</strong>, exploring the spread and impact of fake news in digital markets, Summer 2024.
+    conference: Research project conducted at the Digital Markets Lab of TU Berlin (<strong>TUB</strong>), exploring the spread and impact of fake news in digital markets, Summer 2024.
     pdf: ./assets/files/report_fake_news_digital_markets.pdf
     image: ./assets/img/teaser_fake_news_in_digital_markets.png
     notes: Research project
@@ -50,7 +60,7 @@ main:
   - title: "DYNAMIC - Clustering Data Derived from Clinical Decision Support System"
     authors: <strong>Sid Lamichhane</strong>, Mary-Anne Hartley, Martin Jaggi, Alexandra Kulinkina, Zsofia Hesketh
     conference_short: EPFL
-    conference: Research project at the Intelligent Global Health Lab of École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, focusing on clustering data from real-world clinical decision support systems for syndromic surveillance, Spring 2023.
+    conference: Research project at the Intelligent Global Health Lab of École Polytechnique Fédérale de Lausanne (<strong>EPFL</strong>), focusing on clustering data from real-world clinical decision support systems for syndromic surveillance, Spring 2023.
     pdf: ./assets/files/report_dynamic.pdf
     code: https://github.com/sid030sid/DYNAMIC-igh-ml-semester-project
     notes: Research project
@@ -60,7 +70,7 @@ main:
   - title: "Deep Learning for Edge-AI Respiratory Disorder Monitoring"
     authors: "Simon Aquarone, Zhengru (James) Fang, <strong>Sid Lamichhane</strong>, Lara Orlandic"
     conference_short: EPFL
-    conference: Research project at the Embedded Systems Lab of École Polytechnique Fédérale de Lausanne <strong>(EPFL)</strong>, focusing on the development of lightweight CNN-based architectures for real-time cough detection on edge devices that classify audio and inertial measurement unit signals with high accuracy under memory constraints (<16,000 parameters), Winter 2022.
+    conference: Research project at the Embedded Systems Lab of École Polytechnique Fédérale de Lausanne (<strong>EPFL</strong>), focusing on the development of lightweight CNN-based architectures for real-time cough detection on edge devices that classify audio and inertial measurement unit signals with high accuracy under memory constraints (<16,000 parameters), Winter 2022.
     pdf: ./assets/files/report_edge_cough_detector.pdf
     notes: Research project
     image: ./assets/img/teaser_edge_cough_detector.jpeg
@@ -68,7 +78,7 @@ main:
   - title: "FairData"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: LINK
-    conference: Hackathon project exploring tokenization of data ownership using Chainlink <strong>(LINK)</strong>, aimed at ensuring fair data access and usage, Fall 2022.
+    conference: Hackathon project exploring tokenization of data ownership using Chainlink (<strong>LINK</strong>), aimed at ensuring fair data access and usage, Fall 2022.
     code: https://github.com/sid030sid/chainlink-hackathon-fairData
     demo_video: https://www.youtube.com/watch?v=KofzL0dpWxU&
     image: ./assets/img/teaser_coding_pj.jpg
@@ -78,7 +88,7 @@ main:
   - title: "NLP: Machine Translation"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: TUB
-    conference: Coding project for the Natural Language Processing course at TU Berlin <strong>(TUB)</strong>, implementing and optimizing a machine translation system, Summer 2022.
+    conference: Coding project for the Natural Language Processing course at TU Berlin (<strong>TUB</strong>), implementing and optimizing a machine translation system, Summer 2022.
     code: https://github.com/sid030sid/machine-translation
     notes: Coding project
     image: ./assets/img/teaser_coding_pj.jpg
@@ -86,7 +96,7 @@ main:
   - title: "NLP: Text Classification and Textual Similarity"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: TUB
-    conference: Coding project for the Natural Language Processing course at TU Berlin <strong>(TUB)</strong>, focusing on text classification and measuring textual similarity, Summer 2022.
+    conference: Coding project for the Natural Language Processing course at TU Berlin (<strong>TUB</strong>), focusing on text classification and measuring textual similarity, Summer 2022.
     code: https://github.com/sid030sid/nlp-text-classification-and-textual-similarity
     notes: Coding project
     image: ./assets/img/teaser_coding_pj.jpg
