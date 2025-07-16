@@ -35,7 +35,7 @@ main:
     conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I designed and implemented the first version of a web app that enables academic institutions to issue digital credentials (such as diplomas, language certificates, and student ID cards) in line with W3C standards for Verifiable Credentials, the OpenID for Verifiable Credential Issuance protocol, and Decentralized Identifiers, within the framework of the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Autumn 2024.
     demo_video: ./assets/videos/demo_academic_issuer.mp4
     image: ./assets/img/teaser_academic_issuer.jpg
-    notes: Coding project
+    notes: Research and coding project
     page: https://academic-issuer.trace4eu.eu/issue
 
   - title: "SupplyTrust"
