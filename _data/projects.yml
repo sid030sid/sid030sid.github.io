@@ -1,4 +1,13 @@
 main:
+  - title: "TrustCV"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: Trace4EU / EBSI
+    conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I co-designed and implemented TrustCV, a decentralized application platform that enables applicants to share trustworthy CVs by leveraging verifiability through the Self-Sovereign Identity paradigm and the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Spring 2025.
+    #demo_video: ./assets/videos/demo_trustcv.mp4
+    image: ./assets/img/teaser_trustcv.jpg
+    notes: Research and coding project
+    page: https://resume-app.trace4eu.eu/
+
   - title: "Self-sovereign EcoLens"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: LauzHack / EcoLens
@@ -23,9 +32,8 @@ main:
   - title: "Academic Issuer"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: Trace4EU / EBSI
-    conference: As part of the <a href=https://trace4eu.eu/>Trace4EU</a> research project, designed and implemented the first version of a web app that enables academic institutions to issue digital credentials (such as diplomas, language certificates, and student ID cards) in line with W3C standards for Verifiable Credentials, the OpenID for Verifiable Credential Issuance protocol, and Decentralized Identifiers, within the framework of the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Autumn 2024.
-    code: https://github.com/trace4eu/uc-resume-t52
-    #demo_video: todo
+    conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I designed and implemented the first version of a web app that enables academic institutions to issue digital credentials (such as diplomas, language certificates, and student ID cards) in line with W3C standards for Verifiable Credentials, the OpenID for Verifiable Credential Issuance protocol, and Decentralized Identifiers, within the framework of the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Autumn 2024.
+    demo_video: ./assets/videos/demo_academic_issuer.mp4
     image: ./assets/img/teaser_academic_issuer.jpg
     notes: Coding project
     page: https://academic-issuer.trace4eu.eu/issue
