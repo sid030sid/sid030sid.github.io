@@ -4,7 +4,7 @@ main:
     conference_short: Trace4EU / EBSI
     conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I co-designed and implemented TrustCV, a decentralized application platform that enables applicants to share trustworthy CVs by leveraging verifiability through the Self-Sovereign Identity paradigm and the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Spring 2025.
     #demo_video: ./assets/videos/demo_trustcv.mp4
-    image: ./assets/img/teaser_trustcv.jpg
+    image: ./assets/img/teaser_trustcv.png
     notes: Research project
     page: https://resume-app.trace4eu.eu/
 
