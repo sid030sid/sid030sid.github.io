@@ -5,7 +5,7 @@ main:
     conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I co-designed and implemented TrustCV, a decentralized application platform that enables applicants to share trustworthy CVs by leveraging verifiability through the Self-Sovereign Identity paradigm and the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Spring 2025.
     #demo_video: ./assets/videos/demo_trustcv.mp4
     image: ./assets/img/teaser_trustcv.jpg
-    notes: Research and coding project
+    notes: Research project
     page: https://resume-app.trace4eu.eu/
 
   - title: "Self-sovereign EcoLens"
@@ -33,9 +33,9 @@ main:
     authors: <strong>Sid Lamichhane</strong>
     conference_short: Trace4EU / EBSI
     conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I designed and implemented the first version of a web app that enables academic institutions to issue digital credentials (such as diplomas, language certificates, and student ID cards) in line with W3C standards for Verifiable Credentials, the OpenID for Verifiable Credential Issuance protocol, and Decentralized Identifiers, within the framework of the European Blockchain Services Infrastructure (<strong>EBSI</strong>), Autumn 2024.
-    demo_video: ./assets/videos/demo_academic_issuer.mp4
+    demo_video: https://youtu.be/rlyK7ULU8MA
     image: ./assets/img/teaser_academic_issuer.jpg
-    notes: Research and coding project
+    notes: Research project
     page: https://academic-issuer.trace4eu.eu/issue
 
   - title: "SupplyTrust"
@@ -83,15 +83,15 @@ main:
     notes: Research project
     image: ./assets/img/teaser_edge_cough_detector.jpeg
     
-  - title: "FairData"
-    authors: <strong>Sid Lamichhane</strong>
-    conference_short: LINK
-    conference: Hackathon project exploring tokenization of data ownership using Chainlink (<strong>LINK</strong>), aimed at ensuring fair data access and usage, Fall 2022.
-    code: https://github.com/sid030sid/chainlink-hackathon-fairData
-    demo_video: https://www.youtube.com/watch?v=KofzL0dpWxU&
-    image: ./assets/img/teaser_coding_pj.jpg
-    notes: Coding project
-    page: https://devpost.com/software/dhartha
+  #- title: "FairData"
+    #authors: <strong>Sid Lamichhane</strong>
+    #conference_short: LINK
+    #conference: Hackathon project exploring tokenization of data ownership using Chainlink (<strong>LINK</strong>), aimed at ensuring fair data access and usage, Fall 2022.
+    #code: https://github.com/sid030sid/chainlink-hackathon-fairData
+    #demo_video: https://www.youtube.com/watch?v=KofzL0dpWxU& # was removed from youtube
+    #image: ./assets/img/teaser_coding_pj.jpg
+    #notes: Coding project
+    #page: https://devpost.com/software/dhartha
 
   - title: "NLP: Machine Translation"
     authors: <strong>Sid Lamichhane</strong>
