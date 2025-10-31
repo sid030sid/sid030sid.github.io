@@ -14,12 +14,11 @@ I deeply enjoy the process of reading, writing, and presenting research that has
 ## Research Interests
 [//]: <> (**Privacy-enhancing Technologies:** Zero-knowledge Proof, Multiparty Computation, Homomorphic Encryption, Differential Privacy)
 
-- **Decentralized Identity:** Decentralized Identifiers, Verifiable Credentials, Self-sovereign Identity
-- **Decentralized Systems Engineering:** Decentralized Applications, Blockchain, Decentralized Storage Systems, InterPlanetary File System
-- **Trustworthy AI:** zkML, Personhood Credentials, Decentralized Federated Learning
+- **Data Science:** AI for Good
+- **Decentralized Systems Engineering:** Decentralized Applications, Decentralized Storage Systems, Self-sovereign Identity
+- **Trustworthy AI:** Decentralized Federated Learning, Personhood Credentials, zkML
 
 ## News
-
 - **[Oct. 2024]** Presentation of [VDIC paper](https://ieeexplore.ieee.org/abstract/document/10732266) @ the Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS).
 - **[Sep. 2024]** Presentation of [VDIC paper](https://ieeexplore.ieee.org/abstract/document/10732266) @ the TUM Blockchain Conference (see [video recording](https://www.youtube.com/watch?v=cieSpOdJZVs)).
 - **[Aug. 2024]** [Blog post](https://cheqd.io/blog/using-cheqd-for-verifiable-supply-chains/) for supply chain industry about trustworthy supply chain data management through cheqd's Blockchain-based Decentralized Identifiers.
