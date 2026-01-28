@@ -4,19 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently in the final semester of my Master’s program in Information Systems Management, specializing in Data Science and Engineering, at the Technical University of Berlin.
-
-My enthusiasm for research stems from the excitement of tackling complex problems, exploring innovative ideas, and contributing to impactful solutions. 
+I have currently finished my Master’s program in Information Systems Management, specializing in Data Science and Engineering, at the Technical University of Berlin. Next, I aim to continue my path as a researcher. My enthusiasm for research stems from the excitement of tackling complex problems, exploring innovative ideas, and contributing to impactful solutions. 
 I deeply enjoy the process of reading, writing, and presenting research that has the potential to drive meaningful change.
 
 [//]: <> (After completing my Master's, I aim to combine my expertise in AI with my research at the Service-centric Networking Lab to advance the evolving field of Trustworthy AI. In a world where AI plays an ever-growing role in shaping our lives, ensuring its trustworthiness is essential for safeguarding democratic values such as privacy, accountability, and the decentralization of power.)
 
-## Research Interests
-[//]: <> (**Privacy-enhancing Technologies:** Zero-knowledge Proof, Multiparty Computation, Homomorphic Encryption, Differential Privacy)
-
-- **Data Science:** AI for Good
-- **Decentralized Systems Engineering:** Decentralized Applications, Decentralized Storage Systems, Self-sovereign Identity
-- **Trustworthy AI:** Decentralized Federated Learning, Personhood Credentials, zkML
+[//]: <> (## Research Interests - **Privacy-enhancing Technologies:** Zero-knowledge Proof, Multiparty Computation, Homomorphic Encryption, Differential Privacy - **Data Science:** AI for Good - **Decentralized Systems Engineering:** Decentralized Applications, Decentralized Storage Systems, Self-sovereign Identity - **Trustworthy AI:** Decentralized Federated Learning, Personhood Credentials, zkML)
 
 ## News
 - **[Oct. 2024]** Presentation of [VDIC paper](https://ieeexplore.ieee.org/abstract/document/10732266) @ the Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS).
