@@ -1,6 +1,6 @@
 main:
   - title: "Private Group Membership Attestation"
-    authors: <strong>Sid Lamichhane</strong>, Baki Berkay, Hamidov Siyovush
+    authors: <strong>Sid Lamichhane</strong>
     conference_short: ASCS
     code: https://github.com/ASCS-eV/circom-ecdsa
     image: ./assets/img/teaser_ascs_zkp.png
@@ -8,7 +8,7 @@ main:
     notes: Research project
 
   - title: "Decentralized Governance"
-    authors: <strong>Sid Lamichhane</strong>
+    authors: <strong>Sid Lamichhane</strong>, Baki Berkay, Hamidov Siyovush
     conference_short: ASCS
     code: https://github.com/ASCS-eV/on-chain-ssi
     image: ./assets/img/teaser_ascs_envited_x.jpg
