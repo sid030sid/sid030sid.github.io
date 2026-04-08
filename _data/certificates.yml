@@ -1,5 +1,9 @@
 main:
-
+  - title: "Data Science and Engineering Certificate"
+    conference: Awarded to students who focus their Master's on Data Science and Engineering, January 2026.
+    pdf: ./assets/img/certificates/data-science-and-engineering-certificate.pdf
+    page: https://www.tu.berlin/en/dima/analytics/data-science-and-engineering-track
+    
   - title: "Good scientific practice in doctoral studies"
     conference: Crash course on good practices for PhD students, May 2024.
     pdf: ./assets/img/certificates/scientific_practice_certificate.pdf
