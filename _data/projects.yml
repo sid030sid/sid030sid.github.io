@@ -98,6 +98,7 @@ main:
     pdf: ./assets/files/report_edge_cough_detector.pdf
     notes: Research project
     image: ./assets/img/teaser_edge_cough_detector.jpeg
+    page:  https://www.epfl.ch/labs/esl/cough-e-using-edge-technology-to-track-coughs-discreetly/
     
   #- title: "FairData"
     #authors: <strong>Sid Lamichhane</strong>
