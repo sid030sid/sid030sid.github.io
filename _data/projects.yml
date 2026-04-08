@@ -1,4 +1,20 @@
 main:
+  - title: "Private Group Membership Attestation"
+    authors: <strong>Sid Lamichhane</strong>, Baki Berkay, Hamidov Siyovush
+    conference_short: ASCS
+    code: https://github.com/ASCS-eV/circom-ecdsa
+    image: ./assets/img/teaser_ascs_zkp.png
+    conference: Improved the scalability and security of existing proof systems for private on-chain group membership attestation for decentralized governance of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
+    notes: Research project
+
+  - title: "Decentralized Governance"
+    authors: <strong>Sid Lamichhane</strong>
+    conference_short: ASCS
+    code: https://github.com/ASCS-eV/on-chain-ssi
+    image: ./assets/img/teaser_ascs_envited_x.jpg
+    conference: Research and development of decentralized governance with a chain of trust and self-sovereign identities for the digital data marketplace of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
+    notes: Research project
+
   - title: "TrustCV"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: Trace4EU / EBSI
