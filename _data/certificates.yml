@@ -14,19 +14,33 @@ main:
     pdf: https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/10976
     page: https://www.encode.club/zkml-bootcamp
 
-  - title: "Solidity Bootcamp"
-    conference: 8-week educational program on Solidity programming for smart contracts on Ethereum, June 2022.
-    pdf: https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/12182
-    page: https://www.encode.club/solidity-bootcamps
-
   - title: "Deutschlandstipendium"
     conference: Scholarship for academic excellence and extra curricular commitment, 2023 - 2025.
     pdf: ./assets/files/dstip-certificates.pdf
     page: https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html
     notes: Scholarship award
 
+  - title: "Solidity Bootcamp"
+    conference: 8-week educational program on Solidity programming for smart contracts on Ethereum, June 2022.
+    pdf: https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/12182
+    page: https://www.encode.club/solidity-bootcamps
+
   - title: "Design Thinking"
     conference: Crash course on Design Thinking and how to enable your team to apply it, October 2021.
     pdf: ./assets/img/certificates/design_thinking_certificate.pdf
     page: https://www.interaction-design.org/literature/topics/design-thinking?srsltid=AfmBOorsuMVu2sfnts1qh3zRYgRTB0ZuaQvi16pKYwXRnDid-xUnpbD2
-    
+
+  - title: "NoSQL Data Modeling"
+    conference: Online course on NoSQL data modeling, covering key concepts and techniques for designing efficient and scalable NoSQL databases, October 2021.
+    pdf: ./assets/img/certificates/mongodb-data-modeling-certificate.pdf
+    page: https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb
+  
+  - title: "MongoDB Performance"
+    conference: Online course on MongoDB performance, covering best practices and techniques for optimizing the performance of MongoDB databases, October 2021.
+    pdf: ./assets/img/certificates/mongodb-performance-certificate.pdf
+    page: https://learn.mongodb.com/courses/ilt-mdb200-mongodb-optimization-and-performance
+
+  - title: "MongoDB Security"
+    conference: Online course on MongoDB security, covering best practices and techniques for securing MongoDB databases, October 2021.
+    pdf: ./assets/img/certificates/mongodb-security-certificate.pdf
+    page: https://learn.mongodb.com/courses/mongodb-atlas-security

@@ -24,6 +24,14 @@ main:
     notes: Research project
     page: https://resume-app.trace4eu.eu/
 
+  - title: "Verifiable Credential Issuance and Verification Services"
+    authors: <strong>Sid Lamichhane</strong>, Pablo Cosio Molleda
+    conference_short: Trace4EU
+    conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I contributed to the implementation of bootstrapable services for the issuance and verification of Verifiable Credentials following <a href="https://openid.net/sg/openid4vc/">OID4VC protocols</a>, Winter 2024.
+    image: ./assets/img/teaser_oid4vc.jpg
+    notes: Coding project
+    code: https://github.com/trace4eu/vc-and-digital-twin
+
   - title: "Self-sovereign EcoLens"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: LauzHack / EcoLens
