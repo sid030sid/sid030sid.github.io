@@ -1,15 +1,30 @@
 <h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
 
 <div class="publications">
+  
+  <div style="margin-bottom: 20px;">
+    <label for="project-topic-filter" style="font-weight: bold; margin-right: 10px;">Filter by Topic:</label>
+    <select id="project-topic-filter" style="padding: 5px 10px; border-radius: 4px; border: 1px solid #ddd;">
+      <option value="">All Topics</option>
+      <option value="decentralized systems">Decentralized Systems</option>
+      <option value="data and ai">Data and AI</option>
+      <!-- <option value="data science">Data Science</option> -->
+      <!-- <option value="data engineering">Data Engineering</option> -->
+      <!-- <option value="data analysis">Data Analysis</option> -->
+      <option value="software engineering">Software Engineering</option>
+      <!-- <option value="research">Research</option> -->
+    </select>
+  </div>
+
 <ol class="bibliography">
 
-{% for link in site.data.projects.main limit:3 %}
+{% for link in site.data.projects.main %}
 
-<li>
+<li class="project-item" data-topics="{{ link.topics | join: ',' }}">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    <img src="{{ link.image | relative_url }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
@@ -52,9 +67,3 @@
 
 </ol>
 </div>
-
-{% if site.data.projects.main.size > 3 %}
-<div style="text-align: right; margin-top: 10px;">
-  <a href="/projects/" style="background-color: transparent; border: none; padding: 0; font-size: 14px; color: #0969da; text-decoration: none; cursor: pointer;">View all projects →</a>
-</div>
-{% endif %}

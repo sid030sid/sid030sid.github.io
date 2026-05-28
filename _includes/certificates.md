@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.certificates.main %}
+{% for link in site.data.certificates.main limit:3 %}
 
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -39,3 +39,9 @@
 
 </ol>
 </div>
+
+{% if site.data.certificates.main.size > 3 %}
+<div style="text-align: right; margin-top: 10px;">
+  <a href="/certificates/" style="background-color: transparent; border: none; padding: 0; font-size: 14px; color: #0969da; text-decoration: none; cursor: pointer;">View all certificates →</a>
+</div>
+{% endif %}

@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications.main limit:3 %}
 
 <li>
 <div class="pub-row">
@@ -49,3 +49,9 @@
 
 </ol>
 </div>
+
+{% if site.data.publications.main.size > 3 %}
+<div style="text-align: right; margin-top: 10px;">
+  <a href="/publications/" style="background-color: transparent; border: none; padding: 0; font-size: 14px; color: #0969da; text-decoration: none; cursor: pointer;">View all publications →</a>
+</div>
+{% endif %}

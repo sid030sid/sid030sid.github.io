@@ -1,9 +1,9 @@
-<h2 id="voluntary-work" style="margin: 2px 0px -15px;">Voluntary Work</h2>
+<h2 id="certificates" style="margin: 2px 0px -15px;">Certificates</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.volunteering.main limit:3 %}
+{% for link in site.data.certificates.main %}
 
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -13,7 +13,7 @@
       </div>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Certificate</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -39,9 +39,3 @@
 
 </ol>
 </div>
-
-{% if site.data.volunteering.main.size > 3 %}
-<div style="text-align: right; margin-top: 10px;">
-  <a href="/voluntary-work/" style="background-color: transparent; border: none; padding: 0; font-size: 14px; color: #0969da; text-decoration: none; cursor: pointer;">View all voluntary work →</a>
-</div>
-{% endif %}

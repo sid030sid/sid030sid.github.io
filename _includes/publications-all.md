@@ -1,9 +1,9 @@
-<h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.projects.main limit:3 %}
+{% for link in site.data.publications.main %}
 
 <li>
 <div class="pub-row">
@@ -30,9 +30,6 @@
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
-      {% if link.demo_video %} 
-      <a href="{{ link.demo_video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-      {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
@@ -52,9 +49,3 @@
 
 </ol>
 </div>
-
-{% if site.data.projects.main.size > 3 %}
-<div style="text-align: right; margin-top: 10px;">
-  <a href="/projects/" style="background-color: transparent; border: none; padding: 0; font-size: 14px; color: #0969da; text-decoration: none; cursor: pointer;">View all projects →</a>
-</div>
-{% endif %}
