@@ -15,7 +15,7 @@ main:
     image: ./assets/img/teaser_ascs_envited_x.jpg
     conference: Research and development of decentralized governance with a chain of trust and self-sovereign identities for the digital data marketplace of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
     notes: Research project
-    topics: ["decentralized systems", "software engineering"]
+    topics: ["decentralized systems", "software"]
 
   - title: "TrustCV"
     authors: <strong>Sid Lamichhane</strong>
@@ -25,7 +25,7 @@ main:
     image: ./assets/img/teaser_trustcv.png
     notes: Research project
     page: https://resume-app.trace4eu.eu/
-    topics: ["decentralized systems", "software engineering"]
+    topics: ["decentralized systems", "software"]
 
   - title: "Verifiable Credential Issuance and Verification Services"
     authors: <strong>Sid Lamichhane</strong>, Pablo Cosio Molleda
@@ -34,7 +34,7 @@ main:
     image: ./assets/img/teaser_oid4vc.jpg
     notes: Coding project
     code: https://github.com/trace4eu/vc-and-digital-twin
-    topics: ["decentralized systems", "software engineering"]
+    topics: ["decentralized systems", "software"]
 
   - title: "Self-sovereign EcoLens"
     authors: <strong>Sid Lamichhane</strong>
@@ -45,7 +45,7 @@ main:
     image: ./assets/img/teaser_self_sovereign_ecolens.jpg
     notes: Coding project
     page: https://lauzhack.com/projects.html#:~:text=Self%20Sovereign%20Ecolens
-    topics: ["decentralized systems", "software engineering"]
+    topics: ["decentralized systems", "software"]
 
   - title: "did:ipfs"
     authors: <strong>Sid Lamichhane</strong>
@@ -67,7 +67,7 @@ main:
     image: ./assets/img/teaser_academic_issuer.jpg
     notes: Research project
     page: https://academic-issuer.trace4eu.eu/issue
-    topics: ["decentralized systems", "software engineering"]
+    topics: ["decentralized systems", "software"]
 
   - title: "SupplyTrust"
     authors: <strong>Sid Lamichhane</strong>
@@ -78,7 +78,7 @@ main:
     image: ./assets/img/teaser_supply_trust.png
     notes: Coding project
     page: https://devpost.com/software/supplytrust
-    topics: ["decentralized systems", "software engineering"]
+    topics: ["decentralized systems", "software"]
 
   - title: "Fake News in Digital Markets"
     authors: <strong>Sid Lamichhane</strong>, Nancy Wünderlich
@@ -87,17 +87,17 @@ main:
     pdf: ./assets/files/report_fake_news_digital_markets.pdf
     image: ./assets/img/teaser_fake_news_in_digital_markets.png
     notes: Research project
-    topics: ["research"]
+    topics: ["research", "business"]
 
   - title: "Tokenization of Investment Club Shares"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: Invero AG
-    conference: Coding project during internship at <strong>Invero AG</strong> (URI, CH) centered on building a decentralized platform for tokenizing and purchasing investment club shares in compliance with Swiss regulations, Summer 2023.
+    conference: Consulting and coding project during internship at <strong>Invero AG</strong> (URI, CH) centered on building a decentralized platform for tokenizing and trading investment club shares in compliance with Swiss regulations, Summer 2023.
     pdf: ./assets/files/invero_work_certificate.pdf
     notes: Coding project
     image: ./assets/img/teaser_invero.png
     page: https://www.invero.io/en/
-    topics: ["decentralized systems", "software engineering"]
+    topics: ["decentralized systems", "software", "business"]
 
   - title: "DYNAMIC - Clustering Data Derived from Clinical Decision Support System"
     authors: <strong>Sid Lamichhane</strong>, Mary-Anne Hartley, Martin Jaggi, Alexandra Kulinkina, Zsofia Hesketh
@@ -108,7 +108,7 @@ main:
     notes: Research project
     image: ./assets/img/teaser_dynamic.png
     page: https://dynamic-study.com/
-    topics: ["data and ai", "data science", "software engineering" ]
+    topics: ["data and ai", "data science", "software" ]
 
   - title: "Deep Learning for Edge-AI Respiratory Disorder Monitoring"
     authors: "Simon Aquarone, Zhengru (James) Fang, <strong>Sid Lamichhane</strong>, Lara Orlandic"

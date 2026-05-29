@@ -6,12 +6,13 @@
     <label for="project-topic-filter" style="font-weight: bold; margin-right: 10px;">Filter by Topic:</label>
     <select id="project-topic-filter" style="padding: 5px 10px; border-radius: 4px; border: 1px solid #ddd;">
       <option value="">All Topics</option>
-      <option value="decentralized systems">Decentralized Systems</option>
+      <option value="business">Business</option>
       <option value="data and ai">Data and AI</option>
+      <option value="decentralized systems">Decentralized Systems</option>
       <!-- <option value="data science">Data Science</option> -->
       <!-- <option value="data engineering">Data Engineering</option> -->
       <!-- <option value="data analysis">Data Analysis</option> -->
-      <option value="software engineering">Software Engineering</option>
+      <option value="software">Software</option>
       <!-- <option value="research">Research</option> -->
     </select>
   </div>
@@ -37,7 +38,7 @@
       </div>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="{{ link.pdf | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
