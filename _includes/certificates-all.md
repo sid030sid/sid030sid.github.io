@@ -4,10 +4,11 @@
 <ol class="bibliography">
 
 {% for link in site.data.certificates.main %}
+{% assign item_anchor = link.anchor | default: link.title | slugify %}
 
-<li>
+<li id="{{ item_anchor }}">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf  | relative_url }}">{{ link.title }}</a></div>
+      <div class="title"><a href="#{{ item_anchor }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>

@@ -4,8 +4,9 @@
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
+{% assign item_anchor = link.anchor | default: link.title | slugify %}
 
-<li>
+<li id="{{ item_anchor }}">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
@@ -16,7 +17,7 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf | relative_url }}">{{ link.title }}</a></div>
+      <div class="title"><a href="#{{ item_anchor }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>

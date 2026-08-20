@@ -20,6 +20,7 @@ main:
     conference: Facilitated Design Thinking workshops for students and professors of TU Berlin, fostering innovative solutions for the institution's future, November 2021.
 
   - title: "Volunteer"
+    anchor: "volunteer-buddy-program"
     authors: <strong>Buddy Program, Berlin, DE</strong>
     conference: Provided guidance and support to international students at TU Berlin, fostering integration and community, 10/2018 - 09/2022.
     page: https://www.tu.berlin/en/international/students-1/internationalizationhome/buddy-program
@@ -30,11 +31,13 @@ main:
     page: https://www.vhsbhaktapur.org/
 
   - title: "Volunteer"
+    anchor: "volunteer-haus-leo"
     authors: <strong>Haus Leo, Berliner Stadtmission, Berlin, DE</strong>
     conference: Mentored children of refugees and supported them with academic tasks, contributing to their educational and personal growth, 02/2017 - 03/2017.
     page: https://www.berliner-stadtmission.de/angebote/flucht-migration-und-integration#haus-leo-gemeinschaftsunterkunft-fuer-gefluechtete
 
   - title: "Volunteer"
+    anchor: "volunteer-bahnhofsmission-am-hauptbahnhof"
     authors: <strong>Bahnhofsmission am Hauptbahnhof, Berlin, DE</strong>
     conference: Assisted and advised homeless individuals, providing support and resources during their time of need, 01/2017 - 03/2017.
     page: https://www.berliner-stadtmission.de/bahnhofsmission/bahnhofsmission-am-hauptbahnhof
