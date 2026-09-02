@@ -1,4 +1,9 @@
 main:
+  - title: "Inter- and Transdisciplinary Research and Collaboration"
+    conference: Summer school of TdLab at ETH Zürich teaching methods for inter- and transdisciplinary research and collaboration, August 2026.
+    pdf: ./assets/img/certificates/itd-certificate.pdf
+    page: https://csts.ethz.ch/teaching/summer-school/summer-school-2026.html
+
   - title: "Data Science and Engineering Certificate"
     conference: Awarded to students who focus their Master's on Data Science and Engineering, January 2026.
     pdf: ./assets/img/certificates/data-science-and-engineering-certificate.pdf
