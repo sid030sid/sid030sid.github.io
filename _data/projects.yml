@@ -111,7 +111,7 @@ main:
     topics: ["data and ai", "data science", "software" ]
 
   - title: "Deep Learning for Edge-AI Respiratory Disorder Monitoring"
-    authors: "Simon Aquarone, Zhengru (James) Fang, <strong>Sid Lamichhane</strong>, Lara Orlandic"
+    authors: "<strong>Sid Lamichhane</strong>, Simon Aquarone, Zhengru (James) Fang , Lara Orlandic"
     conference_short: EPFL
     conference: Research project at the Embedded Systems Lab of École Polytechnique Fédérale de Lausanne (<strong>EPFL</strong>), focusing on the development of lightweight CNN-based architectures for real-time cough detection on edge devices that classify audio and inertial measurement unit signals with high accuracy under memory constraints (<16,000 parameters), Winter 2022.
     pdf: ./assets/files/report_edge_cough_detector.pdf
