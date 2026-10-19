@@ -1,41 +1,60 @@
 document.addEventListener('DOMContentLoaded', function() {
-  // Initialize the filter
-  const urlParams = new URLSearchParams(window.location.search);
-  const selectedTopic = urlParams.get('topic');
-  
-  const filterSelect = document.getElementById('project-topic-filter');
-  if (filterSelect && selectedTopic) {
-    filterSelect.value = selectedTopic;
+  const topicFilter = document.getElementById('project-topic-filter');
+  const typeFilter = document.getElementById('project-type-filter');
+
+  function restoreFiltersFromUrl() {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (topicFilter) {
+      topicFilter.value = urlParams.get('topic') || '';
+    }
+    if (typeFilter) {
+      typeFilter.value = (urlParams.get('type') || '').toLowerCase();
+    }
+    applyFilter();
   }
-  
-  // Apply filter on page load
-  applyFilter();
-  
-  // Add change event listener
-  if (filterSelect) {
-    filterSelect.addEventListener('change', function() {
-      const selectedValue = this.value;
-      if (selectedValue) {
-        // Update URL with topic parameter
-        const newUrl = window.location.pathname + '?topic=' + encodeURIComponent(selectedValue);
-        window.history.pushState({ topic: selectedValue }, '', newUrl);
-      } else {
-        // Remove query parameter if "All" is selected
-        window.history.pushState({}, '', window.location.pathname);
-      }
-      applyFilter();
-    });
+
+  function updateUrlFromFilters() {
+    const url = new URL(window.location.href);
+    const topic = topicFilter ? topicFilter.value : '';
+    const type = typeFilter ? typeFilter.value : '';
+
+    if (topic) {
+      url.searchParams.set('topic', topic);
+    } else {
+      url.searchParams.delete('topic');
+    }
+    if (type) {
+      url.searchParams.set('type', type);
+    } else {
+      url.searchParams.delete('type');
+    }
+
+    window.history.pushState({ topic: topic, type: type }, '', url);
+    applyFilter();
   }
+
+  [topicFilter, typeFilter].forEach(function(filter) {
+    if (filter) {
+      filter.addEventListener('change', updateUrlFromFilters);
+    }
+  });
+
+  window.addEventListener('popstate', restoreFiltersFromUrl);
+  restoreFiltersFromUrl();
 });
 
 function applyFilter() {
-  const filterSelect = document.getElementById('project-topic-filter');
-  const selectedTopic = filterSelect ? filterSelect.value : '';
+  const topicFilter = document.getElementById('project-topic-filter');
+  const typeFilter = document.getElementById('project-type-filter');
+  const selectedTopic = topicFilter ? topicFilter.value : '';
+  const selectedType = typeFilter ? typeFilter.value : '';
   const projectItems = document.querySelectorAll('.project-item');
   
   projectItems.forEach(item => {
-    const topics = item.getAttribute('data-topics');
-    const shouldDisplay = !selectedTopic || (topics && topics.includes(selectedTopic));
+    const topics = item.getAttribute('data-topics') || '';
+    const projectType = item.getAttribute('data-type') || '';
+    const shouldDisplay = (!selectedTopic || topics.includes(selectedTopic))
+      && (!selectedType || projectType === selectedType);
     
     if (shouldDisplay) {
       item.style.display = '';

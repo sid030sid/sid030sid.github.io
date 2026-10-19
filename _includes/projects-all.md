@@ -2,10 +2,11 @@
 
 <div class="publications">
   
-  <div style="margin-bottom: 20px;">
-    <label for="project-topic-filter" style="font-weight: bold; margin-right: 10px;">Filter by Topic:</label>
-    <select id="project-topic-filter" style="padding: 5px 10px; border-radius: 4px; border: 1px solid #ddd;">
-      <option value="">All Topics</option>
+  <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 12px 24px; margin-bottom: 20px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <label for="project-topic-filter" style="font-weight: bold;">Filter by Project Topic:</label>
+      <select id="project-topic-filter" style="padding: 5px 10px; border-radius: 4px; border: 1px solid #ddd;">
+      <option value="">All</option>
       <option value="business">Business</option>
       <option value="data and ai">Data and AI</option>
       <option value="decentralized systems">Decentralized Systems</option>
@@ -14,7 +15,16 @@
       <!-- <option value="data analysis">Data Analysis</option> -->
       <option value="software">Software</option>
       <!-- <option value="research">Research</option> -->
-    </select>
+      </select>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <label for="project-type-filter" style="font-weight: bold;">Filter by Project Type:</label>
+      <select id="project-type-filter" style="padding: 5px 10px; border-radius: 4px; border: 1px solid #ddd;">
+        <option value="">All</option>
+        <option value="research">Research</option>
+        <option value="coding">Coding</option>
+      </select>
+    </div>
   </div>
 
 <ol class="bibliography">
@@ -22,7 +32,7 @@
 {% for link in site.data.projects.main %}
 {% assign item_anchor = link.anchor | default: link.title | slugify %}
 
-<li id="{{ item_anchor }}" class="project-item" data-topics="{{ link.topics | join: ',' }}">
+<li id="{{ item_anchor }}" class="project-item" data-topics="{{ link.topics | join: ',' }}" data-type="{{ link.notes | downcase | remove: ' project' }}">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
