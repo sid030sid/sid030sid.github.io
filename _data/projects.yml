@@ -4,9 +4,9 @@ main:
     conference_short: ASCS
     code: https://github.com/ASCS-eV/circom-ecdsa
     image: ./assets/img/teaser_ascs_zkp.png
-    conference: Improved the scalability and security of existing proof systems for private on-chain group membership attestation for decentralized governance of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
+    conference: Improved the scalability and security of existing proof systems for private on-chain group membership attestation, as needed by the <a href="https://sid030sid.github.io/projects/?topic=decentralized+systems#decentralized-governance">decentralized governance system</a> of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
     notes: Research project
-    topics: ["decentralized systems", "research"]
+    topics: ["decentralized systems", "research", "security and privacy"]
 
   - title: "Decentralized Governance"
     authors: <strong>Sid Lamichhane</strong>, Baki Berkay, Hamidov Siyovush
@@ -30,11 +30,11 @@ main:
   - title: "Verifiable Credential Issuance and Verification Services"
     authors: <strong>Sid Lamichhane</strong>, Pablo Cosio Molleda
     conference_short: Trace4EU
-    conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I contributed to the implementation of bootstrapable services for the issuance and verification of Verifiable Credentials following <a href="https://openid.net/sg/openid4vc/">OID4VC protocols</a>, Winter 2024.
+    conference: As part of the <a href="https://trace4eu.eu/">Trace4EU</a> research project, I contributed to the implementation of bootstrapable services for the secure issuance and verification of Verifiable Credentials following <a href="https://openid.net/sg/openid4vc/">OID4VC protocols</a>, Winter 2024.
     image: ./assets/img/teaser_oid4vc.jpg
     notes: Coding project
     code: https://github.com/trace4eu/vc-and-digital-twin
-    topics: ["decentralized systems", "software"]
+    topics: ["software", "security and privacy"]
 
   - title: "Self-sovereign EcoLens"
     authors: <strong>Sid Lamichhane</strong>

@@ -9,6 +9,7 @@
       <option value="">All</option>
       <option value="business">Business</option>
       <option value="data and ai">Data and AI</option>
+      <option value="security and privacy">Security and Privacy</option>
       <option value="decentralized systems">Decentralized Systems</option>
       <!-- <option value="data science">Data Science</option> -->
       <!-- <option value="data engineering">Data Engineering</option> -->
