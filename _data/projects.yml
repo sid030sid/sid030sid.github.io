@@ -83,7 +83,7 @@ main:
   - title: "Fake News in Digital Markets"
     authors: <strong>Sid Lamichhane</strong>, Nancy Wünderlich
     conference_short: TUB
-    conference: Research project conducted at the Digital Markets Lab of TU Berlin (<strong>TUB</strong>), exploring the spread and impact of fake news in digital markets, Summer 2024.
+    conference: Research project conducted at the Digital Markets Lab of TU Berlin (<strong>TUB</strong>), exploring theimpact of fake news in digital markets / VLOPs regarding dark patterns, network effects, and EU-regulations, Summer 2024.
     pdf: ./assets/files/report_fake_news_digital_markets.pdf
     image: ./assets/img/teaser_fake_news_in_digital_markets.png
     notes: Research project
