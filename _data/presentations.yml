@@ -1,0 +1,14 @@
+main:
+  - title: "Conference on Blockchain Research & Applications for Innovative Networks and Services"
+    authors: <strong>Sid Lamichhane</strong> (Fall 2024)
+    conference: Presented my research on <a href="https://sid030sid.github.io/publications/#verifiable-decentralized-ipfs-cluster">Verifiable Decentralized IPFS Cluster</a> and supported presentation of demo paper on <a href="https://sid030sid.github.io/publications/#lifecycle-management-of-resum%C3%A9s-with-decentralized-identifiers-and-verifiable-credentials">lifecycle management of resumés under Self-Sovereign Identity paradigm</a>
+    image: ./assets/img/brains-conf.png
+    notes: Research presentation
+  - title: "TUM Blockchain Conference"
+    authors: <strong>Sid Lamichhane</strong> (Fall 2024)
+    conference: Presented my research on <a href="https://sid030sid.github.io/publications/#verifiable-decentralized-ipfs-cluster">Verifiable Decentralized IPFS Cluster</a>
+    image: ./assets/img/tum-block-conf.jpg
+    demo_video: https://www.youtube.com/watch?v=cieSpOdJZVs
+    notes: Research presentation
+
+ 
