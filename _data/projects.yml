@@ -4,7 +4,7 @@ main:
     conference_short: ASCS
     code: https://github.com/ASCS-eV/circom-ecdsa
     image: ./assets/img/teaser_ascs_zkp.png
-    conference: Improved the scalability and security of existing proof systems for private on-chain group membership attestation, as needed by the <a href="https://sid030sid.github.io/projects/?topic=decentralized+systems#decentralized-governance">decentralized governance system</a> of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
+    conference: Improved the scalability and security of existing proof systems for private on-chain group membership attestation, as needed by the <a href="https://sid030sid.github.io/projects/#decentralized-governance">decentralized governance system</a> of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
     notes: Research project
     topics: ["decentralized systems", "research", "security and privacy"]
 
@@ -13,7 +13,7 @@ main:
     conference_short: ASCS
     code: https://github.com/ASCS-eV/on-chain-ssi
     image: ./assets/img/teaser_ascs_envited_x.jpg
-    conference: Research and development of decentralized governance with a chain of trust and self-sovereign identities for the digital data marketplace of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
+    conference: Research and development of a decentralized governance system with a chain of trust and self-sovereign identities for <a href="https://github.com/ASCS-eV/envited-x-data-space">ENVITED-X</a>, the digital data marketplace of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
     notes: Research project
     topics: ["decentralized systems", "software"]
 
