@@ -1,4 +1,12 @@
 main:
+  #- title: "Customizable No-code Preprocessing Pipeline for Text, Tables, and Images in Browser-based (Decentralized) Federated Learning"
+  #  authors: <strong>Sid Lamichhane and Julien Vignoud</strong>
+  #  conference_short: DISCO
+  #  page: https://github.com/epfml/disco/issues/1197
+   # image: ./assets/img/teaser_ascs_zkp.png
+    #conference: Designed, Implemnted, and Evalauted a no-code preprocessing pipeline for text, tables, and images to increase model performance in task creators in Deceentralized Colllaborative (<strong>DISCO</strong>) the scalability and security of existing proof systems for private on-chain group membership attestation, as needed by the <a href="https://sid030sid.github.io/projects/#decentralized-governance">decentralized governance system</a> of the Automotive Solution Center for Simulation (<strong>ASCS</strong>), February 2026.
+    #notes: Coding project
+    #topics: ["data and ai", "software"]
   - title: "Private Group Membership Attestation"
     authors: <strong>Sid Lamichhane</strong>
     conference_short: ASCS
@@ -104,7 +112,6 @@ main:
     conference_short: EPFL
     conference: Research project at the Intelligent Global Health Lab of École Polytechnique Fédérale de Lausanne (<strong>EPFL</strong>), focusing on clustering data from real-world clinical decision support systems for syndromic surveillance, Spring 2023.
     pdf: ./assets/files/report_dynamic.pdf
-    code: https://github.com/sid030sid/DYNAMIC-igh-ml-semester-project
     notes: Research project
     image: ./assets/img/teaser_dynamic.png
     page: https://dynamic-study.com/
